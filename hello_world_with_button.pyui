@@ -1,0 +1,51 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{244, 173}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "F4BF55DA-FBF9-40B2-9B87-A54213741242",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "name" : "hello_world_label"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{283, 276}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "hello_world_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Poke me",
+          "class" : "Button",
+          "uuid" : "E72881D3-248A-4723-B28A-65B4A15E30E9",
+          "font_size" : 15,
+          "name" : "hello_world_button"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
